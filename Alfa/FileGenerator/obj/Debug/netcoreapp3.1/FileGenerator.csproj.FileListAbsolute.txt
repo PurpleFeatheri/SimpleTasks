@@ -1,0 +1,13 @@
+C:\Projects\Alfa\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.exe
+C:\Projects\Alfa\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.deps.json
+C:\Projects\Alfa\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.runtimeconfig.json
+C:\Projects\Alfa\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.runtimeconfig.dev.json
+C:\Projects\Alfa\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.dll
+C:\Projects\Alfa\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.pdb
+C:\Projects\Alfa\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.csprojAssemblyReference.cache
+C:\Projects\Alfa\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.csproj.CoreCompileInputs.cache
+C:\Projects\Alfa\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.AssemblyInfoInputs.cache
+C:\Projects\Alfa\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.AssemblyInfo.cs
+C:\Projects\Alfa\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.dll
+C:\Projects\Alfa\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.pdb
+C:\Projects\Alfa\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.genruntimeconfig.cache
